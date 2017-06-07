@@ -44,5 +44,3 @@ class HighArray {
 		System.out.println("");
 	}
 }
-
-
