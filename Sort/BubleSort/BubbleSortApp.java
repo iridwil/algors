@@ -14,7 +14,6 @@ class BubbleSortApp {
 		arr.insert(00);
 		arr.insert(66);
 		arr.insert(33);
-		arr.insert(Math.random()*100);
 
 		arr.display();
 
